@@ -1,0 +1,5 @@
+@media (min-width: 1200px) {
+  body, nav {
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto; } }
